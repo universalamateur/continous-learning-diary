@@ -15,4 +15,4 @@ Daily [typing lessons](https://www.typing.academy/typing-tutor/lessons).
 - warm up exercises - all letters
 - warm up exercises - all rows
 - finger practice - all letters
-- finger practice - all 
+- finger practice - all
