@@ -3,6 +3,8 @@
 ## Google Project Management: Professional Certificate
 
 [Project Execution Week 5](https://www.coursera.org/learn/project-execution-google/home/week/5)
+[Project Execution Week 6](https://www.coursera.org/learn/project-execution-google/home/week/6)
+[Agile Project Management](https://www.coursera.org/learn/agile-project-management/home/welcome)
 
 ## Typing Academy
 
