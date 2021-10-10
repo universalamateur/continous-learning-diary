@@ -15,3 +15,7 @@ Daily [typing lessons](https://www.typing.academy/typing-tutor/lessons)
 ## Flask Webpage
 
 [Refeshing Flask Module knowledge](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
+[Flask Module Page](http://www.jimshapedcoding.com/courses/Flask%20Full%20Series)
+[Addition of Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+[Flask Qucik start](https://flask.palletsprojects.com/en/2.0.x/quickstart/#static-files)
+[temp video](https://youtu.be/Qr4QMBUPxWo?t=2509)
