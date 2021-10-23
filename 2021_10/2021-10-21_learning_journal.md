@@ -39,8 +39,6 @@ Blackbox testing for known security vulnerabilities before Deployment in SDLC.
 Less risk of damaging security breaches in the deployed application.
 Not full code coverage plus manual investigation necessary.
 
-> Talking Points
-
 #### 3 Fuzzing Overview
 
 Fuzzing, or Fuzz Testing, is the process of finding security vulnerabilities in input accepting applications by providing semi valid, unexpected, or random input while monitoring the application for hangs, crashes or exceptions.
@@ -74,9 +72,15 @@ A report shows the concrete inputs to reproduce and examine the bugs.
 
 Determine and asses Fuzz Target
 Identify Inputs and interface Fuzzer
-Integrate Crash detection and/or binary instrumentation 
+Integrate Crash detection and/or binary instrumentation
 Provide initial seed input or Corpus of prior sessions
 Fuzz on and monitor behavior
+Generate test cases
+Start the target program
+Feed the target program the test case
+Determine if a given case provides new code coverage
+Mutate/evolve the input that gives positive return
+Detect if the program has crashed or stalled
 Log defects
 Investigate and debug found misbehaviour
 
@@ -104,7 +108,7 @@ Fuzzing enables the developer to make their own code more secure.
 
 > Talking Points
 
-And because instrumentation enables organizations to integrate application security into IDE and CI/CD tools, developers no longer require teams of specialized application security experts to detect and help remediate vulnerabilities. Instead, developers can fix vulnerabilities as they write code. 
+And because instrumentation enables organizations to integrate application security into IDE and CI/CD tools, developers no longer require teams of specialized application security experts to detect and help remediate vulnerabilities. Instead, developers can fix vulnerabilities as they write code.
 
 #### What can and can’t it do? Limitations
 
@@ -122,7 +126,7 @@ If a Fuzzer is aware of the internal program structure, it is counted as a White
 
 > Talking Points
 
-- Blackbox Fuzzing: Simple Setup, not a lot of Engineerg needed. Dependeant on good starting seed for the Inputs. Practical for JPG or png, which can be mutated. 
+- Blackbox Fuzzing: Simple Setup, not a lot of Engineerg needed. Dependeant on good starting seed for the Inputs. Practical for JPG or png, which can be mutated.
 - Grammar-based fuzzing: Very powerful, the input is kept through engineering in expected valid formats to focus and guide fuzzing toward specific input corner cases of interest. Good for JSON or XML input for example.
 - Whitebox Fuzzing: Aware of the source code and its branching, a well formed input as a start seed can lead to nearly full code coverage and finding the explicit values needed for inputs to check all possible cases.
 automatically learn input
