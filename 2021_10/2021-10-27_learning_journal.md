@@ -1,4 +1,4 @@
-# Daily Learning Journal - 2021-10-23 - Saturday
+# Daily Learning Journal - 2021-10-27 - Wednesday
 
 ## Typing Academy
 
