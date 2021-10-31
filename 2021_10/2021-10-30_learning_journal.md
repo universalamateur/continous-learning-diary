@@ -1,4 +1,4 @@
-# Daily Learning Journal - 2021-10-29 - Friday
+# Daily Learning Journal - 2021-10-30 - Saturday
 
 ## Typing Academy
 
@@ -20,3 +20,4 @@ Daily [typing lessons](https://www.typing.academy/typing-tutor/lessons)
 ## Google Project Management
 
 [PM Retroperspetive](https://www.coursera.org/learn/applying-project-management/home/week/3)
+[Effective stakeholder communication](https://www.coursera.org/learn/applying-project-management/home/week/4)

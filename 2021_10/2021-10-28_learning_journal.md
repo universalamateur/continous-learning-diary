@@ -21,6 +21,8 @@ Daily [typing lessons](https://www.typing.academy/typing-tutor/lessons)
 
 ## Google Project Management
 
+[Google PM course Capstone](https://www.coursera.org/learn/applying-project-management/home/week/3)
+
 Notes on Evaluating quality, Why:
 
 - Judge the quality and performance of the tablets
@@ -49,7 +51,7 @@ A key question about the outcomes, impact and/or effectiveness of your project o
   - Are there any lessons to be learned?
   - Should we continue?
 
-#### Guidelines to effective evaluation questions:
+#### Guidelines to effective evaluation questions
 
 Address stakeholder or user values, interests and concerns
 Relate to the purpose of the project and of evaluation
