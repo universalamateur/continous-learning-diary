@@ -29,6 +29,7 @@ Daily [typing lessons](https://www.typing.academy/typing-tutor/lessons)
 [Mitre Att&ck Framework](https://attack.mitre.org/)
 [Mitre Shield Framework](https://shield.mitre.org/)
 [Git rep](https://github.com/hposton/python-for-cybersecurity)
+[Lockheed Martin, the Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 
 - Tactic: goal of a cyberattack or active defense
 - Technique: mechanism that is used to achieve the goal
