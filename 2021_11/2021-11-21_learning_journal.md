@@ -1,6 +1,5 @@
 # Daily Learning Journal - 2021-11-21 - Sunday
 
-
 ## Typing Academy
 
 Daily [typing lessons](https://www.typing.academy/typing-tutor/lessons)
