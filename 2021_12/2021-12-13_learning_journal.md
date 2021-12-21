@@ -1,4 +1,4 @@
-# Daily Learning Journal - 2021-12-14 - Tuesday
+# Daily Learning Journal - 2021-12-13 - Monday
 
 ## Typing Academy
 
@@ -11,4 +11,4 @@ Daily [typing lessons](https://www.typing.academy/typing-tutor/lessons)
 ## TryHackMe
 
 [Pre Security](https://tryhackme.com/path/outline/presecurity)
-[Advent of Cyber 3 - Day14](https://tryhackme.com/room/adventofcyber3)
+[Advent of Cyber 3 - Day13](https://tryhackme.com/room/adventofcyber3)
