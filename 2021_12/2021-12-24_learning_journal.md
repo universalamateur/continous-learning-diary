@@ -11,4 +11,4 @@ Daily [typing lessons](https://www.typing.academy/typing-tutor/lessons)
 ## TryHackMe
 
 [Web Fundamentals Path](https://tryhackme.com/path/outline/web)
-[Advent of Cyber 3 - Day21](https://tryhackme.com/room/adventofcyber3)
+[Advent of Cyber 3 - Day24](https://tryhackme.com/room/adventofcyber3)
