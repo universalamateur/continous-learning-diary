@@ -1,4 +1,4 @@
-# Daily Learning Journal - 2021-12-25 - Saturday
+# Daily Learning Journal - 2021-12-30 - Thursday
 
 ## Typing Academy
 
@@ -8,7 +8,12 @@ Daily [typing lessons](https://www.typing.academy/typing-tutor/lessons)
 
 [DuoLingo greek](https://www.duolingo.com/learn)
 
+## Brilliant Courses
+
+[Brilliant Algebra](https://brilliant.org/courses/)
+
 ## TryHackMe
 
 [Web Fundamentals Path](https://tryhackme.com/path/outline/web)
-[Advent of Cyber 3 - Day25](https://tryhackme.com/room/adventofcyber3)
+
+> [Lvl 8 - 30 days Streak](https://tryhackme.com/p/Universalamateur)

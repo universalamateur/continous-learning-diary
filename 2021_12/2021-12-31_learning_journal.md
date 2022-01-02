@@ -1,4 +1,4 @@
-# Daily Learning Journal - 2021-12-29 - Wednesday
+# Daily Learning Journal - 2021-12-31 - Friday
 
 ## Typing Academy
 
@@ -15,5 +15,6 @@ Daily [typing lessons](https://www.typing.academy/typing-tutor/lessons)
 ## TryHackMe
 
 [Web Fundamentals Path](https://tryhackme.com/path/outline/web)
+[Scripting for Pentesters](https://tryhackme.com/module/scripting-for-pentesters)
 
-> [Lvl 8 - 29 days Streak](https://tryhackme.com/p/Universalamateur)
+> [Lvl 8 - 31 days Streak](https://tryhackme.com/p/Universalamateur)
