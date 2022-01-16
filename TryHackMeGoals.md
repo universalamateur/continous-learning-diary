@@ -13,6 +13,8 @@ The Roadmap for the self learn Voyage in Cybersecurity
 - [PreSecurity Path](https://www.tryhackme.com/path/outline/presecurity)
   - [Done PreSecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GHU29YAJYU.png)
 - [Web Fundamentals Path](https://www.tryhackme.com/path/outline/web)
+  - [Done Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S6MTRVJC7L.png)
+- [Jr Penetration tester Path](https://www.tryhackme.com/path/outline/jrpenetrationtester)
 - [CompTIA Pentest+ Path](https://www.tryhackme.com/path/outline/pentestplus)
 
 #### Rooms
