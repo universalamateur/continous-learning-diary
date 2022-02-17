@@ -1,4 +1,4 @@
-# Daily Learning Journal - 2022-02-16 - Wednesday
+# Daily Learning Journal - 2022-02-17 - Thursday
 
 ## Typing Academy
 
@@ -9,7 +9,7 @@ Daily [typing lessons](https://www.typing.academy/typing-tutor/lessons)
 [junior penetration tester Path - 52%](https://tryhackme.com/path/outline/jrpenetrationtester)
 [SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
-> [Lvl 9 - 78 days Streak](https://tryhackme.com/p/Universalamateur)
+> [Lvl 9 - 79 days Streak](https://tryhackme.com/p/Universalamateur)
 
 ## Atlassian University
 
