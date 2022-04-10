@@ -1,4 +1,4 @@
-# Daily Learning Journal - 2022-04-09 - Saturday
+# Daily Learning Journal - 2022-04-10 - Sunday
 
 ## Typing Academy
 
@@ -9,7 +9,7 @@ Daily [typing lessons](https://www.typing.academy/typing-tutor/lessons)
 [junior penetration tester Path - 65%](https://tryhackme.com/path/outline/jrpenetrationtester)
 [Active Recon - Nmap](https://tryhackme.com/room/nmap02)
 
-> [Lvl 9 - 129 days Streak](https://tryhackme.com/p/Universalamateur)
+> [Lvl 9 - 130 days Streak](https://tryhackme.com/p/Universalamateur)
 
 ## Scrum Master
 
